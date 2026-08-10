@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: popolnenie-ot-50-rubley-depozit.github.io
+Sitemap: https://popolnenie-ot-50-rubley-depozit.github.io/sitemap.xml
